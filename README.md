@@ -1,1 +1,1 @@
-Estudando introdução ao HTML .laughing
+Estudando introdução ao HTML
