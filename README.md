@@ -1,2 +1,2 @@
 Estudando introdução ao HTML
-[HTML]imgur R.png
+<img src = "R.png" >
