@@ -1,2 +1,2 @@
-Estudando introdução ao HTML
-<img src = "R.png" >
+<h1> Estudando introdução ao HTML </h1>
+<img  src = "R.png" > 
