@@ -1,5 +1,5 @@
 <h3> Estudando introdução ao HTML </h3>
 
 <div class="container">
-    <img src=   ""  width ="100" height="90" >
+    <img src=   "R.jpeg"  width ="150" height="100" >
     </div>
