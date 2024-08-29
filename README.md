@@ -3,3 +3,9 @@
 <div class="container">
     <img src=   "R.jpeg"  width ="150" height="100" >
     </div>
+<style>
+main
+{
+background-color:blue;
+}
+</style>
